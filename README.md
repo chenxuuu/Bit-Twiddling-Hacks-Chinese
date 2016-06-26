@@ -2,4 +2,4 @@
 Bit Twiddling Hacks中文翻译
  
  
-  http://git.oschina.net/chenxuuu/Bit-Twiddling-Hacks-Chinese
+渣翻译，求助攻
